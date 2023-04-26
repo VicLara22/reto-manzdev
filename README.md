@@ -15,4 +15,4 @@
 
 > Puedes encontrar otros retos de Manz.dev en: <br>▶ https://lenguajejs.com/retos/
 
-(https://user-images.githubusercontent.com/99929493/234435074-a24419f1-3299-4188-8b34-64970d778e68.jpg)
+![Image text](https://user-images.githubusercontent.com/99929493/234435074-a24419f1-3299-4188-8b34-64970d778e68.jpg)
